@@ -8,5 +8,3 @@ def fib(n):
 
 result = fib(10)
 print(result)
-
-#fibo
